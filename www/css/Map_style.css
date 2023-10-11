@@ -1,0 +1,113 @@
+h1
+{
+    width: 290%;
+    text-align: center;
+    color: #455FAA; 
+    display: block;
+    font-size: 30px;
+    font-family:'Exo 2', sans-serif; 
+    font-weight:90; 
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+p
+{
+    width: 290%;
+    text-align: left;
+    color: #416BA6;
+    display: block;
+    font-size: 20px;
+    font-family: 'Comfortaa', cursive;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.25em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: 900;
+}
+button.btn_MS {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    position: absolute;
+    width: 1.5em;
+    height: 1.5em;
+    top: 341px;
+    left: 220px;
+    vertical-align: middle;
+    text-decoration: none;
+    border: .3em solid rgba(245, 241, 4, 0);
+    border-radius: 100%;
+    background: rgb(49, 15, 245) linear-gradient(rgb(49, 15, 245), 
+    rgb(49, 15, 245)) 50% 50% / calc(1.5em + .5em*2) calc(1.5em + .5em*2);
+    box-shadow: inset 0 -3px 10px rgb(16, 107, 168),
+    inset 0 3px 10px rgb(49, 15, 245),
+    0 2px 4px rgb(49, 15, 245);
+}
+button.btn_MX {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    position: absolute;
+    width: 1.5em;
+    height: 1.5em;
+    top: 533px;
+    left: 71px;
+    vertical-align: middle;
+    text-decoration: none;
+    border: .3em solid rgba(245, 241, 4, 0);
+    border-radius: 100%;
+    background: rgb(49, 15, 245) linear-gradient(rgb(52, 11, 238), 
+    rgb(49, 15, 245)) 50% 50% / calc(1.5em + .5em*2) calc(1.5em + .5em*2);
+    box-shadow: inset 0 -3px 10px rgb(10, 123, 204),
+    inset 0 3px 10px rgb(49, 15, 245),
+    0 2px 4px rgb(49, 15, 245);
+}
+button.btn_HX {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    position: absolute;
+    width: 1.5em;
+    height: 1.5em;
+    top: 680px;
+    left: 1090px;
+    vertical-align: middle;
+    text-decoration: none;
+    border: .3em solid rgba(245, 241, 4, 0);
+    border-radius: 80%;
+    background: rgb(56, 15, 236) linear-gradient(rgb(20, 0, 133), 
+    rgb(56, 15, 236)) 50% 50% / calc(1.5em + .5em*2) calc(1.5em + .5em*2);
+    box-shadow: inset 0 -3px 10px rgb(48, 104, 188),
+    inset 0 3px 10px rgb(58, 12, 224),
+    0 2px 4px rgb(58, 12, 224);
+}
+button.btn_IR {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    position: absolute;
+    width: 1.5em;
+    height: 1.5em;
+    top: 623px;
+    left: 734px;
+    vertical-align: middle;
+    text-decoration: none;
+    border: .3em solid rgba(245, 241, 4, 0);
+    border-radius: 100%;
+    background: rgb(49, 15, 245) linear-gradient(rgb(49, 15, 245), 
+    rgb(49, 15, 245)) 50% 50% / calc(1.5em + .5em*2) calc(1.5em + .5em*2);
+    box-shadow: inset 0 -3px 10px rgb(16, 107, 168),
+    inset 0 3px 10px rgb(49, 15, 245),
+    0 2px 4px rgb(49, 15, 245);
+}
+.karta {
+  position: relative;
+  width: 180%;
+}
+.karta img {
+    
+    width: 210%; 
+    height: auto;  
+}
